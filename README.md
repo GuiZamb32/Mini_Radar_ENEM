@@ -29,3 +29,6 @@ A aplicação principal trabalhada ao longo do curso é o **Mini Radar ENEM**, u
 │   └── aula04.md                 # Métricas do docker stats, custos e Ficha de Decisão
 │
 └── README.md                     # Documentação geral do repositório
+
+```
+ 
