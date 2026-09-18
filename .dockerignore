@@ -1,0 +1,10 @@
+.git
+.env
+__pycache__/
+*.py[cod]
+*.json
+Aula_03/
+Aula_04/
+README.md
+RUNBOOK.md
+arquitetura.md

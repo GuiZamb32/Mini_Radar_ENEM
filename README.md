@@ -1,6 +1,10 @@
-#  Computação em Nuvem - Projetos & Atividades Práticas
+# Computação em Nuvem - Projetos e Atividades Práticas
 
 Repositório voltado ao armazenamento e versionamento das atividades práticas, microsserviços e estudos de arquitetura desenvolvidos na disciplina de **Computação em Nuvem**.
+
+## Aula 7 - operação em ambiente produtivo simulado
+
+Os arquivos na raiz são a entrega operacional: `Dockerfile`, `docker-compose.yml`, `app.py`, `.env.example`, `RUNBOOK.md` e `arquitetura.md`. Consulte o [RUNBOOK](RUNBOOK.md) para executar, observar, recuperar, atualizar e fazer rollback do serviço.
 
 ---
 
@@ -31,4 +35,3 @@ A aplicação principal trabalhada ao longo do curso é o **Mini Radar ENEM**, u
 └── README.md                     # Documentação geral do repositório
 
 ```
- 

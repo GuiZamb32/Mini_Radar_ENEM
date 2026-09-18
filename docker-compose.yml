@@ -1,0 +1,10 @@
+services:
+  radar-enem:
+    build: .
+    image: radar-enem:v3
+    container_name: radar-enem
+    env_file:
+      - .env
+    ports:
+      - "127.0.0.1:5000:5000"
+    restart: unless-stopped
